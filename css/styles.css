@@ -466,6 +466,10 @@ img {
   display: flex;
 }
 
+.site-footer .contact-info{
+ width: 231px;
+}
+
 .site-footer .logo-end {
   color: #ffffff;
 }
@@ -519,7 +523,7 @@ img {
 .site-footer .follow {
   margin-left: 70px;
   display: block;
-}
+  }
 
 .follow .icon-list {
   display: flex;
